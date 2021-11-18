@@ -7,7 +7,7 @@
 </script>
 
 <template>
-    <h1>{{ msg }}15</h1>
+    <h1>{{ msg }}16</h1>
 
     <p>
         Recommended IDE setup:
