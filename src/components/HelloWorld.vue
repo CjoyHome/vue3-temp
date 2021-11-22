@@ -8,7 +8,7 @@
 
 <template>
 
-    <h1>{{ msg }}17</h1>
+    <h1>{{ msg }}18</h1>
 
     <p>
         Recommended IDE setup:
